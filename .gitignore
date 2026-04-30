@@ -1,0 +1,13 @@
+# Runtime data — généré par l'agent au fil des conversations
+users/
+contacts.json
+budget.json
+*.jsonl
+
+# Python / éditeurs / OS
+__pycache__/
+*.pyc
+.DS_Store
+*.swp
+.idea/
+.vscode/
